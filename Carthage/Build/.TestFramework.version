@@ -8,10 +8,10 @@
   "tvOS" : [
 
   ],
-  "commitish" : "9b51a614e62628ea7dd483f265ad351ac2666fbd",
+  "commitish" : "0.1.2",
   "iOS" : [
     {
-      "hash" : "9e4b72db293032cc3e07ef779442b1c050789a2b96f892de9d4e57af10144fb7",
+      "hash" : "6e08e3ef0017eb0e9114410b561ab8640430fd703305233df915a3daa62fa51d",
       "name" : "TestFramework",
       "linking" : "dynamic",
       "swiftToolchainVersion" : "5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
