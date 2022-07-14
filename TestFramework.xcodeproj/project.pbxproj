@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2A9DAEFB287FF9250008F335 /* Alamofire.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2A9DAEFA287FF9250008F335 /* Alamofire.xcframework */; };
 		2ACF68D2287D50B200C416CB /* TestFramework.docc in Sources */ = {isa = PBXBuildFile; fileRef = 2ACF68D1287D50B200C416CB /* TestFramework.docc */; };
 		2ACF68D8287D50B200C416CB /* TestFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2ACF68CD287D50B200C416CB /* TestFramework.framework */; };
 		2ACF68DD287D50B200C416CB /* TestFrameworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ACF68DC287D50B200C416CB /* TestFrameworkTests.swift */; };
@@ -26,6 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2A9DAEFA287FF9250008F335 /* Alamofire.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = Alamofire.xcframework; sourceTree = "<group>"; };
 		2ACF68CD287D50B200C416CB /* TestFramework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TestFramework.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2ACF68D0287D50B200C416CB /* TestFramework.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestFramework.h; sourceTree = "<group>"; };
 		2ACF68D1287D50B200C416CB /* TestFramework.docc */ = {isa = PBXFileReference; lastKnownFileType = folder.documentationcatalog; path = TestFramework.docc; sourceTree = "<group>"; };
@@ -39,6 +41,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2A9DAEFB287FF9250008F335 /* Alamofire.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -74,6 +77,7 @@
 		2ACF68CF287D50B200C416CB /* TestFramework */ = {
 			isa = PBXGroup;
 			children = (
+				2A9DAEFA287FF9250008F335 /* Alamofire.xcframework */,
 				2ACF68D0287D50B200C416CB /* TestFramework.h */,
 				2ACF68E7287D512D00C416CB /* test.swift */,
 				2ACF68D1287D50B200C416CB /* TestFramework.docc */,
