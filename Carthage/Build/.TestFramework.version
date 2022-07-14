@@ -1,0 +1,20 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "8e3964f47a56c046f0650547837ae143701286cf",
+  "iOS" : [
+    {
+      "hash" : "fe33b8c29270353d43f787354d7de712a04c7cc7209b3623d6d31ebc4f31bdb0",
+      "name" : "TestFramework",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+    }
+  ]
+}
